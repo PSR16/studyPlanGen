@@ -1,4 +1,4 @@
-### Study Guide Generator
+### Study Plan Generator
 
 To Run (Locally):
 
